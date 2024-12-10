@@ -47,24 +47,9 @@ amazon-clone/
   - On most systems, double-clicking the file will open it in your default browser.
 
 
-
-
 ## ✨ Acknowledgements
 
 - **Font Awesome** for providing the icons.  
 - **Amazon** for inspiring the design.   
-
-
-### 📦 How to Run Locally
-
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/farzeenmuneer/Amazon-Clone-MiniProject.git
-    ```
-
-2. **Navigate to the project directory:**:
-    ```bash
-    cd Amazon-Clone-MiniProject
-    ```
 
 ## We welcome contributions!
