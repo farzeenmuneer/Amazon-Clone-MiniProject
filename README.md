@@ -41,7 +41,7 @@ amazon-clone/
 
 2. **Navigate to the project directory:**:
     ```bash
-    cd amazon-clone
+    cd Amazon-Clone-MiniProject
     ```
 3.    **Open the index.html file in a browser:**:
   - On most systems, double-clicking the file will open it in your default browser.
